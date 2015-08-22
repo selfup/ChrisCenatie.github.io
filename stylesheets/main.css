@@ -64,7 +64,7 @@ body {
   height: 100%;
   width: 20%;
   background: url("https://scontent.fsnc1-1.fna.fbcdn.net/hphotos-xtf1/v/t1.0-9/11745615_821965181233643_2851910704577806597_n.jpg?oh=d3eb53b21ee06776246b4575a3ee1632&oe=5671E9C7");
-  background-size: cover;
+  background-size: 100% 100%;
   background-repeat: no-repeat;
   position: 20px 30px;
   padding: 0 0 30px;
